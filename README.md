@@ -12,5 +12,3 @@
 4. Application data credentials created
 
 ## Run the 'gcloud auth application-default login' command after setting up Gcloud cli
-
-## Please use "Gemini_project-V-1.0/Vertex_AI_Gemni_Prompt_add-v-1.3.ipynb" file which is up-to-date with all the changes
